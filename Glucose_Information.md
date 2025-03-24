@@ -25,4 +25,4 @@
 | Subject_20  | 23       | F          | 104              |
 | Subject_21  | 65       | M          | 100              |
 | Subject_22  | 25       | M          | 136              |
-| Subject_23  | 40       | F          | 73              |
+| Subject_23  | 40       | F          | 73               |
